@@ -1,0 +1,36 @@
+* {
+    background-color: khaki;
+}
+
+a { 
+    color: red;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+.uno {
+    color: rgb(62, 158, 196);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#segundo{
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.uno em{
+    color: blue;
+    font-style: oblique;
+}
+
+.especial{
+    background-color: black;
+    color: yellow;
+    font-style: inherit;
+}
+
+span{
+    font-weight:bolder;
+}
+
